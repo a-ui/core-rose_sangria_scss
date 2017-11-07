@@ -1,0 +1,18 @@
+/**
+ * VARIABLE OVERRIDES
+ * -------------------------------------------------------------------
+ */
+
+
+// $font-family-base: 'Source Sans Pro' sans-serif;
+// $font-family-headings: 'Source Sans Pro' sans-serif;
+// $font-family-monospace: 'Source Code Pro', Menlo, Monaco, Consolas, 'Courier New', monospace;
+$font-family-base: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-family-headings: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-family-monospace: Menlo, Monaco, Consolas, 'Courier New', monospace;
+$brand-primary: #E04E39;
+$brand-secondary: #554741;
+$normal: 700;
+$header-bg: darken($brand-primary, 8%);
+$header-border: rgba($black, 0);
+$header-height: calc(3rem + 1px);
