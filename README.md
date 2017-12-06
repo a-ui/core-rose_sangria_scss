@@ -1,8 +1,7 @@
-# Digipolis Branding
+# Antwerp Core Branding - "Rose / Sangria edition"
 
-> This project contains Digipolis' new digital styling and styling guidelines. It is the starting point to style your app or website for Digipolis.
-
-As you probably noticed, this project is just released. More documentation will be released very soon!
+This project contains a slightly modified version of Antwerp's digital styling kit. It is the starting point to style your app or website for the city of Antwerp. Next to the [Antwerp Branding Core](https://github.com/a-ui/core_branding_scss), there are a bunch of color variants, of which this version is one.
+This uses primary-color: #E04E39 and secundary-color: #554741.
 
 ## Development
 
@@ -34,25 +33,21 @@ Run the following command in your command line:
 gulp build
 ```
 
-### Creating your own customized build
-
-To apply your own style to the kit, import it into your project and use the accompanied `.scss` files. You will be able to overwrite our variables (for colors, spacing, etc.) with your own.
-
-> Look for the `_quarks.colors.scss` and `_quarks.variables.scss` files to see all variables you can overwrite.
-
 ## Contributing
 
-// For now, contact us via [info@digipolis.be](mailto:info@digipolis.be).
+For now, contact us via [branding@stad.antwerpen.be](mailto:branding@stad.antwerpen.be).
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/a-ui/digipolis_branding_scss/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/a-ui/core_branding_scss/tags).
 
 ## Authors
 
+* **Jeroen Collier** - *Art director, lead design*
+* **Tom Dillien** - *Developer*
 * **Jasper Van Proeyen** - *Initial work, lead developer*
 
-See also the list of [contributors](https://github.com/a-ui/digipolis_branding_scss/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/a-ui/core_branding_scss/contributors) who participated in this project.
 
 ## License
 
